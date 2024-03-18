@@ -1,0 +1,121 @@
+Order	SMPL0	SMPL1	SMPL10	SMPL11	SMPL12	SMPL13	SMPL14	SMPL15	SMPL16	SMPL17	SMPL18	SMPL19	SMPL2	SMPL20	SMPL21	SMPL22	SMPL23	SMPL24	SMPL25	SMPL26	SMPL27	SMPL28	SMPL29	SMPL3	SMPL30	SMPL31	SMPL32	SMPL33	SMPL34	SMPL35	SMPL36	SMPL37	SMPL38	SMPL39	SMPL4	SMPL40	SMPL41	SMPL42	SMPL43	SMPL44	SMPL45	SMPL46	SMPL47	SMPL48	SMPL49	SMPL5	SMPL50	SMPL51	SMPL52	SMPL53	SMPL54	SMPL55	SMPL56	SMPL57	SMPL58	SMPL59	SMPL6	SMPL7	SMPL8	SMPL9
+Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales	0	0	0	0	0	0	0	0	223	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	905	0	0	1154	595	0	0	0	0	0	2305	0	386	0	0	0	2	0	0	109	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;?;?;?	0	0	0	0	0	0	0	1	11051	0	0	2	0	0	0	0	0	3	0	0	0	0	0	43819	0	0	0	0	0	0	157	0	0	0	185	3241	0	0	0	0	525	0	0	0	0	0	0	545	0	0	0	0	0	0	0	0	0	1	0	0
+Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;?;?	0	0	0	0	0	0	0	0	240	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;Acidobacteriae;?	0	0	0	0	0	0	0	0	170	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;Acidobacteriae;Acidobacteriales	0	0	0	0	0	0	0	0	526	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;Acidobacteriae;Bryobacterales	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;Acidobacteriae;Solibacterales	0	0	0	0	0	0	0	0	87	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;Blastocatellia;11-24	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;Blastocatellia;?	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;Holophagae;Subgroup 7	0	0	0	0	0	0	0	0	201	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;Subgroup 18;?	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales	0	0	0	0	0	0	0	0	139	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Actinobacteria;Actinobacteria;Actinomycetales	0	0	2	0	0	2	0	2	363	22	0	2	6	2	4	112	0	0	0	0	0	0	0	4	0	3	0	0	0	1	1	5	0	2	25	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	3	3	0	0	0	0	0	0	1
+Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales	873	1591	0	0	5440	0	0	55	430	0	0	0	87	0	0	0	1	0	1	614	2	3	896	0	0	55	2908	0	29	0	0	815	1292	0	0	0	0	1	5173	84	13	0	0	0	2064	0	3	47	6	1789	0	0	0	4432	8	5268	0	0	1904	2691
+Bacteria;Actinobacteriota;?;?	62	0	0	0	0	0	16	113	136	0	1	0	36	0	0	0	0	0	0	0	0	0	1	28	0	1	0	0	5	3	0	9	4	6	0	0	0	0	0	3	8	0	1	0	0	5	0	1	3502	4	4	0	0	1	6	0	0	4	3	5
+Bacteria;Actinobacteriota;Acidimicrobiia;IMCC26256	0	0	0	0	0	0	0	0	260	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales	0	0	0	0	0	0	0	0	289	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Actinobacteriota;Actinobacteria;?	2041	814	3	48	26	1168	1545	2070	737	5	184	1	825	0	2009	1	0	193	500	1023	343	447	454	1581	7	323	21	2790	146	1382	918	1526	793	183	17	133	0	3	707	1049	2588	0	1020	542	292	1183	16	1620	1743	516	1228	2	14	1021	5619	2342	14393	11	2154	1817
+Bacteria;Actinobacteriota;Actinobacteria;Actinomycetales	28	13	4	16	18	8	5	62	562	20	4	14	131	55	262	1133	471	89	7	8	13	4	2	4	0	30	0	47	57	45	7	43	5	68	756	0	0	17	10	24	16	8	3	25	9	16	5	0	1	5	24	1	12	4	45	2	64	2	14	17
+Bacteria;Actinobacteriota;Actinobacteria;Bifidobacteriales	267	259	6	6131	19963	4	15040	19471	1426	63381	2173	20489	6207	20	313	18755	337	1021	1239	12695	44	22534	2977	5636	63	14427	5	14960	8	5558	12746	23073	904	253	42261	200	14	3	3164	4485	203	8639	2110	15859	1716	6793	8918	211	10324	2	9552	125	2476	7253	16546	959	100	2	68	5725
+Bacteria;Actinobacteriota;Actinobacteria;Corynebacteriales	0	0	2	8551	1	3	0	5	141	1	0	39	2	0	1	16	4	6	0	1	0	2	0	0	0	6	0	0	0	0	6	1	0	6	11	0	0	4	0	0	0	23	1	0	0	0	1	0	0	0	0	0	1	2	3	0	0	0	0	8
+Bacteria;Actinobacteriota;Actinobacteria;Frankiales	0	0	0	0	0	0	0	0	544	0	0	2	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Actinobacteriota;Actinobacteria;Micrococcales	0	1	1	169	0	0	0	0	811	40	0	17	67	10	49	369	0	216	2	35	18	1	0	55	0	1	2	10	0	3	1	20	3	39	83	0	0	2	3	0	2	2	0	0	29	0	0	0	1	0	8	0	4	4	1	0	23	6	4	1
+Bacteria;Actinobacteriota;Actinobacteria;Micromonosporales	0	0	0	0	0	0	0	0	366	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Actinobacteriota;Actinobacteria;Propionibacteriales	0	0	0	507	0	0	1	0	98	0	0	0	2	2	0	18	0	6	0	0	0	0	0	3	0	0	0	0	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Actinobacteriota;Actinobacteria;Pseudonocardiales	0	0	0	0	0	0	0	0	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Actinobacteriota;Actinobacteria;Streptomycetales	0	0	0	2	0	0	0	0	339	0	0	1	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0
+Bacteria;Actinobacteriota;Coriobacteriia;Coriobacteriales	6842	483	1	2735	0	0	1016	2573	9951	0	838	0	16138	0	328	0	1	1	27767	61	2279	562	6875	6599	1	5299	1389	878	2583	8480	51	26680	3169	5686	8	776	14	161	571	3155	10515	3	2167	6	451	1028	67	529	7	1069	2296	2350	98	9329	4851	1408	1	189	6134	1327
+Bacteria;Actinobacteriota;MB-A2-108;?	0	0	0	0	0	0	0	0	169	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Actinobacteriota;Thermoleophilia;Gaiellales	0	0	0	0	0	0	0	0	722	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Actinobacteriota;Thermoleophilia;Solirubrobacterales	0	0	0	0	0	0	0	0	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales	794	46	0	0	9	27	163	387	11	1	210	0	263	0	135	28	0	0	0	3	37	22	13	565	0	7	3	26	16	28	7	14	3	14	0	3	0	8	8	6	36	1	64	1	17	464	19	9	29	20	6	0	54	13	34	25	291	61	171	687
+Bacteria;Bacteroidota;?;?	129	1	0	0	0	0	72	0	2	0	16	0	54	0	2	0	0	0	0	0	0	0	6	10	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	60	2	0	0	3	1	3	0	5	4	2	0	5	1	22
+Bacteria;Bacteroidota;Bacteroidia;?	0	3	0	0	0	0	0	0	229	0	260	0	52	0	1	5	6	0	0	0	0	0	4	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	319	0	0	0	2	0	0	1	2	5	1	0	0	16	6
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales	42844	77189	1	3496	2443	100	27834	4208	68240	40	121434	1905	43599	2569	4565	923	1	2	14037	46485	64251	3545	38142	3543	176	45354	106736	2831	4587	74417	57844	2619	58495	2220	72	92133	41	33	54734	75761	37195	0	62457	171	58678	86421	66359	84326	13920	55469	29668	77996	284	65933	18890	70387	53543	97885	49382	13841
+Bacteria;Bacteroidota;Bacteroidia;Chitinophagales	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales	0	0	0	45	0	0	0	3	535	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	4	106	1	32	0	0	0	0
+Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Campylobacterota;Campylobacteria;?	0	1	0	0	0	0	60	0	0	0	0	0	75	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	5	0	1	0	28	0	0	0
+Bacteria;Campylobacterota;Campylobacteria;Campylobacterales	2	0	0	222	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	3	0	0	0	0	0	0	0	0	124	0	0	0	1	0	0	0	0	0	0	0	2	0
+Bacteria;Chloroflexi;?;?	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Chloroflexi;AD3;uncultured Chloroflexi bacterium	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Chloroflexi;Anaerolineae;Caldilineales	0	0	0	0	0	0	0	0	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Chloroflexi;Anaerolineae;RBG-13-54-9	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Chloroflexi;Gitt-GS-136;uncultured Caldilineaceae bacterium	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Chloroflexi;Ktedonobacteria;Ktedonobacterales	0	0	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Chloroflexi;SHA-26;?	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Chloroflexi;TK10;bacterium Ellin6519	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Chloroflexi;TK10;bacterium Ellin6543	0	0	0	0	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast	0	0	2	2	11	0	0	1	55	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	2	0	3	0	0	1
+Bacteria;Cyanobacteria;Vampirivibrionia;Gastranaerophilales	0	7	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	12	0	126	0	5	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	134	0
+Bacteria;Desulfobacterota;?;?	0	0	0	0	0	0	0	0	170	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Desulfobacterota;Desulfobulbia;Desulfobulbales	0	0	0	0	0	0	0	0	115	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Desulfobacterota;Desulfovibrionia;?	0	0	0	65	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0	8	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	401	0
+Bacteria;Desulfobacterota;Desulfovibrionia;Desulfovibrionales	20	250	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	7	0	71	16	0	0	272	52	108	184	0	341	0	0	0	88	0	0	0	829	94	0	8	0	0	0	20	5	0	115	0	0	3	285	1	10	0	0	149	13
+Bacteria;Firmicutes;?;?	9	10	6220	726	0	42	15	37625	146	194	96	215	401	26	243	788	16	222	1	660	398	19734	6790	7363	0	6643	1	1395	1481	0	20427	1	55	4	329	5	0	30	9	0	4	2	8977	5067	1	26	0	3	17	8	1968	0	18	5	9	62	13	585	6	5
+Bacteria;Firmicutes;Bacilli;?	2794	280	132	6	3	1858	47	30	137	3148	511	56	413	415	2866	674	37	10503	598	881	253	2149	2	1134	20	31	6	2285	784	306	269	229	487	414	1588	0	0	317	64	72	63	41016	352	647	74	473	1478	9	6143	5613	3549	0	1052	307	2739	1311	2140	71	537	19
+Bacteria;Firmicutes;Bacilli;Acholeplasmatales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3525	0	0	0
+Bacteria;Firmicutes;Bacilli;Bacillales	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Firmicutes;Bacilli;Erysipelotrichales	1846	809	0	0	1138	570	75	596	2615	0	35	0	1728	0	533	500	0	1	3	1061	23799	1901	215	94	3	4747	54	41905	4516	66	5696	15954	3035	1333	35	277	2	79	5831	190	123	676	93	8580	7695	66	245	6132	90	1180	657	2130	13174	110	341	593	28	933	15	619
+Bacteria;Firmicutes;Bacilli;Izemoplasmatales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Bacteria;Firmicutes;Bacilli;Lactobacillales	139	133	397	10	210	4226	657	23097	1948	40349	87	9732	23978	28673	12106	51137	2829	64585	6202	3367	3755	7927	301	1508	1	13879	56	5257	14651	917	14254	1124	43982	1436	31169	45	3	18216	6002	71	3070	39438	442	10543	18914	139	5120	106	1981	927	7856	52351	36320	1169	2983	1540	6736	3242	183	223
+Bacteria;Firmicutes;Bacilli;RF39	5	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	16	4	0	0	24	0	0	0	5	1	0	0	0	0	0	0	253	6	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	236	0	0	0	125
+Bacteria;Firmicutes;Bacilli;Staphylococcales	0	1	4	2485	2	3	4	1	23	17	0	17	10	14	38	15	1	46	0	1	11	1	0	0	0	1	26	35	0	4	2	3	5	20	136	60	0	17	6	29	0	9	6	0	0	0	2	0	0	3	4	1	12	2	4	0	2	0	3	2
+Bacteria;Firmicutes;Clostridia;?	6170	3470	2	12010	2637	1239	700	22320	1476	68	4543	118	11122	0	73	1000	0	56	13447	37635	3268	12212	5569	14195	134	449	571	258	417	10141	262	277	3802	317	10783	956	3	11073	3711	2537	9194	35652	12122	128	9083	15791	3701	6227	17605	7115	11218	5	6057	5521	28382	5792	17674	824	5018	27469
+Bacteria;Firmicutes;Clostridia;Christensenellales	47	1895	0	0	0	0	0	220	281	0	178	0	0	0	0	0	0	0	1	0	204	90	140	204	0	75	1067	5	1051	67	72	101	388	0	0	1	0	2	7839	387	3689	0	133	1	122	10	0	1351	4	20	0	0	0	168	1	409	0	247	32	1194
+Bacteria;Firmicutes;Clostridia;Clostridia UCG-014	60	97	0	0	0	0	0	23	658	0	0	0	0	0	0	0	0	1	0	0	363	0	176	257	0	0	416	0	585	0	0	0	179	1	0	0	0	0	2851	310	0	0	38	0	0	0	0	0	2	17	0	0	0	0	0	533	0	0	128	302
+Bacteria;Firmicutes;Clostridia;Clostridia vadinBB60 group	1	2	0	5	0	0	0	1	84	0	143	0	0	0	0	0	0	0	0	1	13	2	41	0	0	7	52	0	0	1	1	2	41	4	0	0	0	0	862	74	92	0	0	0	7	0	0	1	0	1	0	0	0	11	0	6	0	0	1	29
+Bacteria;Firmicutes;Clostridia;Clostridiales	1311	11022	1	26080	120	1863	1566	16059	6477	340	5520	514	2742	61	17862	252	10	4022	2992	3248	2364	7500	1918	3875	0	4892	4258	245	6613	1373	807	1716	1791	469	474	1941	30	611	15313	1548	18112	66	7618	12640	101	10130	15704	668	394	4937	6902	256	65	1093	6096	5533	17909	1917	7403	21807
+Bacteria;Firmicutes;Clostridia;Eubacteriales	0	0	0	0	0	0	2	14	1	0	0	0	26	0	0	0	0	0	0	0	9	0	5	0	0	0	0	4	2	0	0	143	0	0	0	0	0	0	26	52	7	0	0	0	1	0	13	0	0	7	0	0	0	4	0	2	0	4	0	0
+Bacteria;Firmicutes;Clostridia;Lachnospirales	50112	44744	51	4106	133	97695	34327	24474	8827	732	18181	67	9282	622	46325	1425	2	1717	1101	20994	35350	22179	28570	46009	160	24011	13267	82176	34460	31108	14233	71832	17897	31827	1590	13973	15	21880	24892	15797	36282	1257	41719	35860	38800	28934	16926	17607	47482	33262	32283	3232	52143	22330	35197	35387	48714	20026	76070	50703
+Bacteria;Firmicutes;Clostridia;Monoglobales	3	0	0	208	0	0	0	37	17	0	0	0	0	0	0	0	0	0	0	0	15	0	2	0	0	5	0	0	0	1	1	0	27	0	0	0	0	0	61	19	3	0	3	7	4	0	0	0	1	0	0	0	0	12	0	77	0	0	0	3
+Bacteria;Firmicutes;Clostridia;Oscillospirales	62147	38247	0	10969	363	69747	91121	23052	26088	986	28682	2817	37407	279	4562	2904	0	287	36163	41565	27060	67286	72375	42707	86	41430	31549	10066	28869	34383	37361	22557	41328	8783	154	39282	60	99899	25410	66143	33199	5	35497	39295	27503	29097	39113	42668	22937	51436	50871	26177	34735	45274	37300	34014	6839	32425	30474	51338
+Bacteria;Firmicutes;Clostridia;Peptococcales	1	17	0	0	0	0	0	14	0	0	43	0	0	0	0	0	0	0	0	0	118	0	10	0	0	495	0	0	3	0	0	0	78	0	0	0	0	0	199	0	5	0	40	0	171	0	0	157	0	0	0	0	0	18	0	11	0	0	1	18
+Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales	948	24	0	3146	25	0	364	3666	382	4	145	0	9810	1	2	5	0	147	24	49	502	64	143	991	1	214	600	288	583	170	37	2345	229	26	359	572	1	31	825	3476	8760	52	1317	1227	142	294	66	67	17	1370	4377	2	9	368	7819	1115	5393	10	230	205
+Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales	166	16	0	0	28	163	0	87	0	0	14	0	24	0	77	3	0	0	0	19	16	6	3	136	0	3	1	9	9	1	0	11	2	3	0	0	0	0	7	2	18	0	1	7	4	74	0	5	15	4	7	4	16	0	5	5	22	16	38	92
+Bacteria;Firmicutes;Incertae Sedis;DTU014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	82	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Firmicutes;Negativicutes;?	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Firmicutes;Negativicutes;Acidaminococcales	0	5	0	188	0	0	0	0	45	0	0	0	0	0	0	0	0	0	1334	0	0	0	2237	0	4	0	372	94	156	0	1178	76	682	0	0	1489	0	0	0	31	113	0	0	2	232	0	0	516	1	1613	3733	0	0	283	0	1043	0	1851	4197	0
+Bacteria;Firmicutes;Negativicutes;Selenomonadales	91	20	0	0	0	7	365	19	0	0	21	0	137	0	4	0	0	0	0	17	2	3	5	125	0	12	2	0	3	2	1	0	1	1	0	5	0	0	0	3	11	0	11	0	2	99	0	14	1	2	27	3	39	1	22	3	15	33	7	26
+Bacteria;Firmicutes;Negativicutes;Veillonellales-Selenomonadales	155	244	0	3674	398	256	11503	474	6568	2	37	0	551	0	97	120	5	59	38720	3	1752	6	3	762	69	7417	5	4	30	8	116	6	45	116777	2	53	0	61	25	428	1879	2	6	1349	2682	54	995	1	10	3589	38	380	99	163	25	20	1314	29	18	133
+Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales	0	3	0	50	0	0	19	7	16	0	0	0	9	0	2	14	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	2	7	0	4	0	7	0	0	0	0	0	0	2	0	0	0	4	0	0	0	0	0	0	1	1	0
+Bacteria;Methylomirabilota;Methylomirabilia;Rokubacteriales	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Myxococcota;Polyangia;?	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Myxococcota;Polyangia;Blfdi19	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Nitrospirae;Nitrospira;Nitrospirales	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Patescibacteria;Berkelbacteria;?	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Patescibacteria;Parcubacteria;Candidatus Kaiserbacteria	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales	0	0	6	0	2	4	0	4	92	2	7	0	13	2	9	28	0	0	0	1	0	0	1	0	0	0	1	2	0	1	0	20	2	2	16	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	5	0	2	2	12	0	0	1	0	1
+Bacteria;Proteobacteria;?;?	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;?	0	0	0	5	0	0	0	0	328	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales	0	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Elsterales	0	0	0	0	0	0	0	0	84	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Micavibrionales	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Reyranellales	0	0	0	0	0	0	0	0	113	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales	1	0	0	2149	0	0	0	0	1958	0	0	0	0	0	0	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales	3	0	0	0	0	0	0	2	137	0	0	0	0	0	0	0	0	0	0	0	0	0	575	0	0	0	0	0	0	0	0	116	0	0	0	0	0	0	5074	21	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	11	0	0	53	0
+Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales	0	0	0	129	0	0	0	0	98	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales	154	4	0	1	0	0	0	2	208	0	48	0	2	0	2	0	0	0	0	3	4	0	3	18	0	6	0	0	5	15	0	40	1	14	0	2	0	0	3	7	11	0	2	0	3	119	0	0	6	0	1	0	3	1	5	0	1	25	1	13
+Bacteria;Proteobacteria;Betaproteobacteria;MND1	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Gammaproteobacteria;?	6	0	0	14	0	1	0	237	565	17682	0	3257	21	12	218	5	80	46	2	2	13	1	0	2	0	0	65	9	75	0	1	16	18	2	329	0	0	1	1	382	24	8	1	1	11	1	6	3	4	1	20	57	29	239	12	3	44	0	1	19
+Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales	966	264	74	14906	91	36	0	104	12240	251	63	2032	12	49	5651	50	69	9	77	925	225	883	1491	48	13	273	2282	1824	103	156	257	0	340	416	180	10153	3	31	1605	7217	12	1492	2024	74	1442	355	0	110	22131	204	1816	1	2911	2439	629	37	1	2218	0	1845
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales	427	720	169810	121848	155610	5281	1487	3704	12416	61988	1259	149091	21207	132214	80562	73857	181326	103553	26106	1112	520	1760	12	217	0	87	2029	4065	61918	33	2834	125	65	362	88866	4501	8	19922	248	172	51	46482	92	38913	1400	825	5344	2288	13200	228	4319	2418	26386	252	3097	170	5240	18189	57	87
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales	1	8	13527	611	92	0	68	5	1	694	49	107	36	24855	5934	33178	0	24	2	22	0	3126	54	2	0	6	0	41	5025	5	64	1	32	5	6307	0	0	60	0	0	0	3	2	5	5858	3	8286	886	12191	240	165	26	1200	1	1238	149	13	2	4	1
+Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Incertae Sedis	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales	63	0	0	8	22	39	11	23	2	0	14	0	200	0	232	36	0	1	1	0	1	1	0	10	0	0	1	0	18	0	0	0	0	0	0	1	0	11	0	0	4	0	2	5	0	6	2	0	9	1	1	0	5	1	4	1	23	3	3	22
+Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales	3	1	4	596	0	0	0	0	722	0	0	11	0	0	4	3	284	11	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	208	0	0	0	1	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales	0	0	0	0	0	0	0	0	586	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Synergistota;Synergistia;Synergistales	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Verrucomicrobiota;Verrucomicrobiae;?	0	0	0	0	0	0	0	0	89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Verrucomicrobiota;Verrucomicrobiae;Chthoniobacterales	0	0	0	0	0	0	0	0	181	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales	1	2870	0	24	0	0	0	0	432	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	4	0	0	0	0	250	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Eukaryota;Vertebrata;Mammalia;?	0	0	0	1	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+noHit;	0	17	117	26458	0	0	23	0	4055	0	2	70	2	73	205	3	160	309	0	0	0	0	0	0	0	0	14	1	2	22	0	1	0	42	0	17	0	34	0	1	0	21	0	0	0	0	0	0	10	1	48	2	21	11	12	0	0	0	2	9
